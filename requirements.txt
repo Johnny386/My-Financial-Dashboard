@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib.pyplot
+plotly.express
+plotly.graph_objects
+datetime import datetime, timedelta
+yfinance
+streamlit
+NewsApiClient
