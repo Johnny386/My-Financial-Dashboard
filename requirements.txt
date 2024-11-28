@@ -3,7 +3,8 @@ pandas
 matplotlib.pyplot
 plotly.express
 plotly.graph_objects
-datetime, timedelta
+datetime
+timedelta
 yfinance
 streamlit
 NewsApiClient
