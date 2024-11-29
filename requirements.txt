@@ -1,3 +1,4 @@
+newsapi-python
 matplotlib==3.9.2
 newsapi==0.1.1
 numpy==2.1.3
