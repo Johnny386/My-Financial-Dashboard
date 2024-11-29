@@ -7,7 +7,7 @@ import plotly.graph_objects as go         # Visualization
 from datetime import datetime, timedelta  # Date-time
 import yfinance as yf
 import streamlit as st
-from newsapi-python import NewsApiClient
+from newsapi import NewsApiClient
 
 
 #==============================================================================
