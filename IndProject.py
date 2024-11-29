@@ -174,7 +174,7 @@ def get_stock_news(stock_name):
 ## Header
 col1,col2=st.columns([2,2])
 col1.title("Welcome to my Financial Dashboard")
-col2.image('C:/Users/jchreim/Downloads/background.webp', width=300)
+col2.image('background.webp', width=300)
 # Create a selection box of all the S&P stocks for the user to choose
 st.sidebar.title("Welcome to my financial dashboard")
 st.sidebar.write("This dashboard is split into several tabs and each tab has its own function: ")
